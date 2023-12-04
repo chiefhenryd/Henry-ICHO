@@ -48,4 +48,4 @@ Appendix A: Provides SAS codes and procedures used in the analysis.
 Appendix B: Displays R-based data analytics, including code snippets and visualizations.
 
 Conclusion
-This README serves as a guide to navigate through the comprehensive analysis of the Costco retail dataset, conducted using SAS and R software. It encapsulates the key findings, recommendations, limitations, and future research directions stemming from the analysis.
+This README serves as a guide to navigate through the comprehensive analysis of the Retail dataset, conducted using SAS and R software. It encapsulates the key findings, recommendations, limitations, and future research directions stemming from the analysis.
