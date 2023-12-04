@@ -1,4 +1,4 @@
-Costco Retail Dataset Analysis README
+Retail Dataset Analysis README
 Introduction
 This README provides an overview and guidance for understanding the comprehensive analysis conducted on the Costco retail dataset using SAS and R software. The analysis aimed to explore the factors influencing weekly sales and evaluate their impact on sales performance.
 
